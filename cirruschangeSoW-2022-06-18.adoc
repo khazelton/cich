@@ -1,0 +1,41 @@
+==== Draft Statement of Work from Metazome.info Consultants for CirrusChange.com
+
+*Project Overview*
+
+Cirrus Change LLC is engaged in a broad initiative to expand and improve the online presence of their change management consulting and training business. The present, narrowly scoped statement of work covers an initial set of security and performance concerns described in the following Project Deliverables section
+
+*Project Deliverables*
+
+ . Putting in place domain verified SSL certificates for dev, test, and prod server instances in AWS EC2
+ . Configuring inbound and outbound port rules as needed on the three servers
+ . Provide an evaluation of OS options for the servers, specifically including Ubuntu 20.04 and Amazon Linux 2 and make a recommendation on which to use.
+
+
+*Project Specifics*
+
+In view of their complementary skill sets and relevant work experience, the Consultant and Scott Fullerton have agreed to work as a team to complete the deliverables. The budget covers the Consultant's work, Scott is working under an existing set of terms.
+
+*Item 1) SSL Certificate Emplacement*
+
+Precondition: Any URLs and credentials needed to access the Cirrus Change AWS management console and ssh into the relevant EC2 instances have been made available to the Consultant. The private key will initially be under the control of Scott Fullerton.
+
+Deliverable: Demonstration and documentation of HTTPS-only access to dev, test, and production instances of the Cirrus Power Tools web presence with a trusted and domain-validated SSL certificate. Documentation of the step-by-step process for accomplishing this and for the relevant configuration on the AWS EC2 side is included in this deliverable.
+
+Estimate of consultant time to complete this item is one hour.
+
+*Item 2) Closure of all but essential inbound ports and services*
+
+Deliverable: A documented configuration of a secure set of port open/closed rules for Cirrus Power Tools sites using AWS provided security capabilities.
+
+Estimate of consultant time to complete this item is one-half hour.
+
+*Item 3) Choice of Linux OS distribution for AWS EC2 instances*
+
+Deliverable: A written evaluation and recommendation on the choice between staying with the current Ubuntu 20.04 OS or of migrating the EC2 instances to Amazon Linux 2.
+
+Estimate of consultant time to complete this item is one and one-half hours
+
+*Cost*
+
+The Consultant and Cirrus Change LLC agree that the above-listed deliverables will be completed for a fixed cost
+of $500.00. The estimated hours above are provided for informational purposes only and have no effect on the proposed cost for all deliverables.
