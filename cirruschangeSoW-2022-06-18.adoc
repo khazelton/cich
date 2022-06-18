@@ -6,8 +6,8 @@ Cirrus Change LLC is engaged in a broad initiative to expand and improve the onl
 
 *Project Deliverables*
 
- . Putting in place domain verified SSL certificates for dev, test, and prod server instances in AWS EC2
- . Configuring inbound and outbound port rules as needed on the three servers
+ . Put in place domain verified SSL certificates for dev, test, and prod server instances in AWS EC2
+ . Configure inbound and outbound port rules as needed on the three servers
  . Provide an evaluation of OS options for the servers, specifically including Ubuntu 20.04 and Amazon Linux 2 and make a recommendation on which to use.
 
 
